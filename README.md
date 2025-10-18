@@ -4,6 +4,6 @@
 **Slack Username:** Adeyemi Favour.
 
 **Project Description:**  
-A simple web page deployed for the HNG13 Stage 0 DevOps challenge using Koyeb Cloud.
+A simple web page deployed for the HNG13 Stage 0 DevOps challenge using AWS EC2.
 
-**Live URL:** (Add after deployment)
+**Live URL:** http://34.228.200.233/
